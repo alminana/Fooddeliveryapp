@@ -1,0 +1,15 @@
+npm install axios moment react-navigation react-navigation-stack react-navigation-tabs
+expo install react-gesture-handler   
+npm i react-native-reanimated
+expo install react-native-screens
+yarn add react-native-safe-area-context
+npx expo install @react-native-masked-view/masked-view
+expo install expo-location
+
+
+yarn add react-native-reanimated
+
+
+npx expo start --clear
+ npm install  @types/react-native@~0.70.6
+ expo-cli upgrade
