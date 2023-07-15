@@ -8,7 +8,8 @@ expo install expo-location
 
 
 yarn add react-native-reanimated
-
+yarn add install @react-native-community/async-storage  
+yarn add install redux react-redux redux-thunk @types/reduc-thunk
 
 npx expo start --clear
  npm install  @types/react-native@~0.70.6
